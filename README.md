@@ -1,2 +1,2 @@
 # Hey this is my local repo
-<br> used during github setup
+<br> Employed during the configuration of my Git and GitHub.
